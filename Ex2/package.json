@@ -1,0 +1,23 @@
+{
+  "name": "DS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "date-and-time": "^0.14.2",
+    "dateformat": "^4.5.1",
+    "express": "^4.17.1",
+    "format": "^0.2.2",
+    "joi": "^14.3.1",
+    "loadash": "^1.0.0",
+    "morgan": "^1.10.0",
+    "silly-datetime": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
